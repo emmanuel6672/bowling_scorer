@@ -1,4 +1,4 @@
-# 🎳 Bowling Score Calculator
+# Bowling Score Calculator
 
 ## Overview
 
